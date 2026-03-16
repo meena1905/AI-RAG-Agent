@@ -54,7 +54,7 @@ streamlit run app.py
 # 5. Open in your browser
 # http://localhost:8501
 ```
-# 📌 Notes
+## 📌 Notes
 
 RAG Approach: Combines document retrieval with LLM generation for accurate answers.
 
@@ -68,7 +68,7 @@ Deployment: Fully compatible with Streamlit Cloud.
 
 ---
 
-# 🤝 Connect with Me
+## 🤝 Connect with Me
 
 * [LinkedIn](https://linkedin.com/in/s-meenakshi-b2356b288)
   
