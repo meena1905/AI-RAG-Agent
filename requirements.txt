@@ -1,17 +1,7 @@
-# Streamlit version compatible with other packages
-streamlit==1.38.0  
-
-# AI/LLM libraries
-langchain-community==0.4.1
-langchain-text-splitters==1.1.1
-langchain-ollama==1.0.1
-langchain-core==0.3.12
-
-# FAISS CPU – pick the latest compatible version
-faiss-cpu==1.13.2  
-
-# Rich & dependencies for logging
-rich>=10.14.0,<14
-markdown-it-py==4.0.0
-mdurl==0.1.2
-pygments==2.19.2
+streamlit
+langchain-community
+langchain-text-splitters
+langchain-ollama
+faiss-cpu
+pypdf
+sentence-transformers
