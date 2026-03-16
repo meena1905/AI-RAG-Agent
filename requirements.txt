@@ -11,7 +11,7 @@ langchain-core==0.3.12
 faiss-cpu==1.13.2  
 
 # Rich & dependencies for logging
-rich==14.3.3
+rich>=10.14.0,<14
 markdown-it-py==4.0.0
 mdurl==0.1.2
 pygments==2.19.2
