@@ -68,8 +68,8 @@ Deployment: Fully compatible with Streamlit Cloud.
 
 ---
 
-## 🤝 Connect with Me
+## License
 
-* [LinkedIn](https://linkedin.com/in/s-meenakshi-b2356b288)
-  
+[MIT](LICENSE) — Developed by [Meenakshi](https://github.com/meena1905)
+
 ---
